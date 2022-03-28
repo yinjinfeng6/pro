@@ -1,0 +1,37 @@
+{
+  "id": "3270497",
+  "name": "vue项目 B站",
+  "font_family": "iconfont",
+  "css_prefix_text": "biliicon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1149403",
+      "name": "排行榜",
+      "font_class": "paixingbang",
+      "unicode": "e6c5",
+      "unicode_decimal": 59077
+    },
+    {
+      "icon_id": "2154210",
+      "name": "弹幕数_32",
+      "font_class": "danmushu",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "4770756",
+      "name": "右箭头",
+      "font_class": "youjiantou",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "25367362",
+      "name": "视频播放量",
+      "font_class": "shipinbofangliang",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}
